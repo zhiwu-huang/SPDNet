@@ -2,6 +2,7 @@
 Code for reproducing experiments in "A Riemannian Network for SPD Matrix Learning"
 
 % ========================================================================
+
 % A Riemannian Network for SPD Matrix Learning 
 % Version 1.0,  Copyright(c) November, 2017
 % Zhiwu Huang and Luc Van Gool.
@@ -15,6 +16,7 @@ Code for reproducing experiments in "A Riemannian Network for SPD Matrix Learnin
 %-------------------------------------------------------------------------
 %% Please refer to the following paper:
 % Zhiwu Huang and Luc Van Gool.
+
 % A Riemannian Network for SPD Matrix Learning,
 % In Proc. AAAI 2017.
 
