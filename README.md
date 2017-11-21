@@ -1,5 +1,6 @@
 # SPDNet-master
 Code for reproducing experiments in "A Riemannian Network for SPD Matrix Learning"
+
 % ========================================================================
 % A Riemannian Network for SPD Matrix Learning 
 % Version 1.0,  Copyright(c) November, 2017
