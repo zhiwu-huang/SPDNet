@@ -11,6 +11,6 @@ If you find any bug, please contact me.
 
 Note:
 
-The data can be downloaded from http://www.vision.ee.ethz.ch/~zzhiwu/
+The AFEW data can be downloaded from http://www.vision.ee.ethz.ch/~zzhiwu/
 
 
