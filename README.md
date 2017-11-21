@@ -7,7 +7,7 @@ Usage:
 
 Launch spdnet_afew.m for a simple example.
 
-If you find any bug, please contact me. 
+If you find any bug, please contact me via zhiwu.huang@vision.ee.ethz.ch
 
 Note:
 
