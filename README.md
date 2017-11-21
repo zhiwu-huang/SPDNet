@@ -11,6 +11,6 @@ If you find any bug, please contact me.
 
 Note:
 
-The AFEW data can be downloaded from http://www.vision.ee.ethz.ch/~zzhiwu/
+To run the code, one should place the AFEW SPD data under the folder "./data/afew/". The AFEW SPD data can be downloaded from http://www.vision.ee.ethz.ch/~zzhiwu/
 
 
