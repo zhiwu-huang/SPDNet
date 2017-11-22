@@ -11,7 +11,7 @@ Step1: Place the AFEW SPD data under the folder "./data/afew/". The AFEW SPD dat
 
 Step2: Launch spdnet_afew.m for a simple example.
 
-If you find any bug, please contact me via zhiwu.huang@vision.ee.ethz.ch
+If you find any bugs, please contact me via zhiwu.huang@vision.ee.ethz.ch
 
 
 
