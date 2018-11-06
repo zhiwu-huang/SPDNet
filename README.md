@@ -13,6 +13,6 @@ Step2: Launch spdnet_afew.m for a simple example.
 
 If you find any bugs, please contact me via zhiwu.huang@vision.ee.ethz.ch
 
-
+Thanks to Alireza Davoudi, there is a Python implementation for SPDNet at https://github.com/adavoudi/spdnet
 
 
