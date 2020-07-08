@@ -7,7 +7,11 @@ Note that the copyright of the manopt toolbox is reserved by https://www.manopt.
 
 Usage:
 
-Step1: Place the AFEW SPD data under the folder "./data/afew/". The AFEW SPD data can be downloaded from http://www.vision.ee.ethz.ch/~zzhiwu/
+Step1: Place the AFEW SPD data under the folder "./data/afew/". The AFEW SPD data can be downloaded from 
+1. https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/AFEW_SPD_data.zip
+2. https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/HDM05_SPDData.zip
+3. https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/PaSC_SPDData.zip
+
 
 Step2: Launch spdnet_afew.m for a simple example.
 
