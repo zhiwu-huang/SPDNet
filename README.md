@@ -19,9 +19,9 @@ If you find any bugs, please contact me via zhiwu.huang@vision.ee.ethz.ch
 
 ## Related work/implementation:
 
-A NeurIPS 2019 paper "Riemannian batch normalization for SPD neural networks" develops batch normalization layer upon our SPDNet, with its official Pytorch code publicly available at the 'Supplemental' tab of https://proceedings.neurips.cc/paper/2019/hash/6e69ebbfad976d4637bb4b39de261bf7-Abstract.html
+A NeurIPS 2019 paper "Riemannian batch normalization for SPD neural networks" develops batch normalization layer upon our SPDNet, with the official Pytorch code being publicly available at the 'Supplemental' tab of https://proceedings.neurips.cc/paper/2019/hash/6e69ebbfad976d4637bb4b39de261bf7-Abstract.html
 
-Thanks to Alireza Davoudi, there is another Python implementation for SPDNet at https://github.com/adavoudi/spdnet. 
+Thanks to Alireza Davoudi, there is another Python implementation for SPDNet at https://github.com/adavoudi/spdnet
 
 
 ## How to Cite <a name="How-to-Cite"></a>
