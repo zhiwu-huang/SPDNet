@@ -23,6 +23,8 @@ A NeurIPS 2019 paper "Riemannian batch normalization for SPD neural networks" de
 
 Thanks to Alireza Davoudi, there is another Python implementation for SPDNet at https://github.com/adavoudi/spdnet
 
+A direct extension of our SPDNet for facial emotion recognition is published by CVPR workshop 2018, with the code being available at https://github.com/d-acharya/CovPoolFER 
+
 
 ## How to Cite <a name="How-to-Cite"></a>
 If you find this project helpful, please consider citing us as follows:
