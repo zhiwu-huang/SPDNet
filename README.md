@@ -17,7 +17,7 @@ Step2: Launch spdnet_afew.m for a simple example.
 
 If you find any bugs, please contact me via zhiwu.huang@vision.ee.ethz.ch
 
-## Related work/implementation:
+## Related Work/Implementation:
 
 A NeurIPS 2019 paper "Riemannian batch normalization for SPD neural networks" develops batch normalization layer upon our SPDNet, with the official Pytorch code being publicly available at the 'Supplemental' tab of https://proceedings.neurips.cc/paper/2019/hash/6e69ebbfad976d4637bb4b39de261bf7-Abstract.html
 
