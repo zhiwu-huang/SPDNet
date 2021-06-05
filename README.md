@@ -19,11 +19,13 @@ If you find any bugs, please contact me via zhiwu.huang@vision.ee.ethz.ch
 
 ## Related Work/Implementation:
 
-A NeurIPS 2019 paper "Riemannian batch normalization for SPD neural networks" develops batch normalization layer upon our SPDNet, with the official Pytorch code being publicly available at the 'Supplemental' tab of https://proceedings.neurips.cc/paper/2019/hash/6e69ebbfad976d4637bb4b39de261bf7-Abstract.html
+1. A tensorflow ManOpt library is released to reproduce our SDPNet at https://github.com/master/tensorflow-manopt
 
-Thanks to Alireza Davoudi, there is another Python implementation for SPDNet at https://github.com/adavoudi/spdnet
+2. A NeurIPS 2019 paper "Riemannian batch normalization for SPD neural networks" develops batch normalization layer upon our SPDNet, with the official Pytorch code being publicly available at the 'Supplemental' tab of https://proceedings.neurips.cc/paper/2019/hash/6e69ebbfad976d4637bb4b39de261bf7-Abstract.html
 
-A direct extension of our SPDNet for facial emotion recognition is published by CVPR workshop 2018, with the code being available at https://github.com/d-acharya/CovPoolFER 
+3. Thanks to Alireza Davoudi, there is another Python implementation for SPDNet at https://github.com/adavoudi/spdnet
+
+4. A direct extension of our SPDNet for facial emotion recognition is published by CVPR workshop 2018, with the code being available at https://github.com/d-acharya/CovPoolFER 
 
 
 ## How to Cite <a name="How-to-Cite"></a>
