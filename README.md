@@ -15,8 +15,6 @@ Step1: Place the used SPD data under the folder "./data/afew/". The SPD data can
 
 Step2: Launch spdnet_afew.m for a simple example.
 
-If you find any bugs, please contact me via zhiwu.huang@vision.ee.ethz.ch
-
 ## Related Work/Implementation:
 
 1. Thanks to Oleg Smirnov who is Sr. Applied Scientist at Amazon, a tensorflow ManOpt library is released to reproduce our SDPNet at https://github.com/master/tensorflow-manopt
