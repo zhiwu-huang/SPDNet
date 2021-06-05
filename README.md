@@ -19,7 +19,7 @@ If you find any bugs, please contact me via zhiwu.huang@vision.ee.ethz.ch
 
 ## Related Work/Implementation:
 
-1. A tensorflow ManOpt library is released to reproduce our SDPNet at https://github.com/master/tensorflow-manopt
+1. Thanks to Oleg Smirnov who is Sr. Applied Scientist at Amazon, a tensorflow ManOpt library is released to reproduce our SDPNet at https://github.com/master/tensorflow-manopt
 
 2. A NeurIPS 2019 paper "Riemannian batch normalization for SPD neural networks" develops batch normalization layer upon our SPDNet, with the official Pytorch code being publicly available at the 'Supplemental' tab of https://proceedings.neurips.cc/paper/2019/hash/6e69ebbfad976d4637bb4b39de261bf7-Abstract.html
 
