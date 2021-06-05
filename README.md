@@ -7,7 +7,7 @@ Note that the copyright of the manopt toolbox is reserved by https://www.manopt.
 
 ## Usage:
 
-Step1: Place the used <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/AFEW_SPD_data.zip"> AFEW SPD data </a> under the folder "./data/afew/". (Note that the used <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/HDM05_SPDData.zip"> HDM05 </a> and <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/PaSC_SPDData.zip"> PaSC </a> SPD data are also publicly available.)
+Step1: Place the used <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/AFEW_SPD_data.zip"> AFEW </a> SPD data  under the folder "./data/afew/". Note that the used <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/HDM05_SPDData.zip"> HDM05 </a> and <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/PaSC_SPDData.zip"> PaSC </a> SPD data are also publicly available.
 
 Step2: Launch spdnet_afew.m for a simple example.
 
