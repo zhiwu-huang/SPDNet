@@ -24,7 +24,7 @@ Step2: Launch spdnet_afew.m for a simple example.
 5. A direct extension of our SPDNet for facial emotion recognition is published by CVPR workshop 2018, with the <a href="https://github.com/d-acharya/CovPoolFER"> code </a> being available.
 
 
-## How to Cite <a name="How-to-Cite"></a>
+## How to Cite: <a name="How-to-Cite"></a>
 If you find this project helpful, please consider citing us as follows:
 ```bash
 @inproceedings{huang2017spdnet,
